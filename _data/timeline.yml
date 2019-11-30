@@ -13,7 +13,7 @@
   to: present
   description: 
   
-- title: QPyTorch: A Low-Precision Arithmetic Simulation Framework
+- title: "QPyTorch: A Low-Precision Arithmetic Simulation Framework"
   from: 09/2018
   to: 09/2019
   description: 
